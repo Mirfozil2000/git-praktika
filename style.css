@@ -1,0 +1,7 @@
+div {
+  display: flex;
+  align-items: center;
+}
+input {
+    margin-left: 30%;
+}
